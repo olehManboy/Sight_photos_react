@@ -5,7 +5,6 @@ The best platform to share you moment with others.
 ## Project Info
 
 - Project Type: Learning Project
-- Developer: Rishabh Tyagi
 - version: 1.0.0
 
 ## Image/Gif
